@@ -1,0 +1,21 @@
+Image Name,Resize Dimension,Character Accuracy
+Archive-OCR-1.jpg,100xauto,0.0
+Archive-OCR-1.jpg,200xauto,0.14689265536723164
+Archive-OCR-1.jpg,autox600,0.9615384615384616
+Archive-OCR-1.jpg,500x500,0.8547486033519553
+Archive-OCR-1.jpg,150x150,0.423728813559322
+ocr.jpg,100xauto,0.0
+ocr.jpg,200xauto,0.952808988764045
+ocr.jpg,autox600,0.9617117117117117
+ocr.jpg,500x500,0.9573991031390134
+ocr.jpg,150x150,0.728538283062645
+sample21.jpg,100xauto,0.0
+sample21.jpg,200xauto,0.5238095238095238
+sample21.jpg,autox600,0.6467391304347826
+sample21.jpg,500x500,0.7105263157894737
+sample21.jpg,150x150,0.0
+testocr.jpg,100xauto,0.0
+testocr.jpg,200xauto,0.8526315789473684
+testocr.jpg,autox600,0.9691780821917808
+testocr.jpg,500x500,0.9691780821917808
+testocr.jpg,150x150,0.5859649122807018
