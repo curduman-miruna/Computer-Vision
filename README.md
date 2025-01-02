@@ -1,10 +1,17 @@
-# Computer-Vision
-Practical implementations of image enhancement, RGB to grayscale conversion, skin detection, OCR, medical image segmentation (U-Net), and object detection (YOLO). 
+# Computer Vision Repository
 
-A hands-on repository for learning computer vision concepts through practical implementations:
-    Lab 1: Image Enhancement
-    Lab 2: RGB to Grayscale Conversions
-    Lab 3: Skin Detection
-    Lab 4: Optical Character Recognition (OCR)
-    Lab 5: Medical Image Segmentation with U-Net
-    Lab 6: Object Detection with YOLO
+🚀 **Practical implementations of essential computer vision techniques.**
+
+This repository provides a hands-on approach to learning computer vision concepts, covering a wide range of tasks from image enhancement to advanced deep learning techniques.
+
+## 📂 Labs Overview
+- 🖼️ **Lab 1**: Image Enhancement = Explore techniques to improve image quality using filters and adjustments.
+- 🎨 **Lab 2:** RGB to Grayscale Conversion = Implement methods to convert colorful images into grayscale representations.
+- 👩🏽‍🦰 **Lab 3:** Skin Detection = Detect and segment skin regions using color spaces and thresholding.
+- ✍️ **Lab 4:** Optical Character Recognition (OCR) = Recognize and extract text from images using OCR techniques.
+- 🏥 **Lab 5**: Medical Image Segmentation with U-Net = Perform precise segmentation of medical images using the U-Net architecture.
+- 🔍 **Lab 6:** Object Detection with YOLO = Detect objects in images and videos with the YOLO (You Only Look Once) algorithm.
+
+## 🛠️ Tech Stack
+- **Programming Language**: Python
+- **Libraries/Frameworks**: OpenCV, NumPy, TensorFlow, PyTorch
